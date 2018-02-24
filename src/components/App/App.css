@@ -39,3 +39,6 @@ input {
 .btn-warning {
   color: rgba(8, 8, 8, 0.63)
 }
+.btn-success {
+  margin-top: 5px;
+}
